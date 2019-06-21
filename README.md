@@ -26,7 +26,7 @@ npm run e2e
 # run all tests
 npm test
 ```
-- ![vue-hour-slider-1.png]([vue-hour-slider-1.png)
-- ![vue-hour-slider-2.png]([vue-hour-slider-2.png)
+- ![预览1]( vue-hour-slider-1.png)
+- ![预览2]( vue-hour-slider-2.png)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
