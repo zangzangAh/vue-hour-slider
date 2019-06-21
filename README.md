@@ -28,7 +28,7 @@ npm test
 ```
  
 ## 示例
-[点我](http://zangzangah.github.io/vue-hour-slider/index.html#).
+[点我](http://zangzangah.github.io/vue-hour-slider/docs/index.html).
 
 ## 截图 
 
