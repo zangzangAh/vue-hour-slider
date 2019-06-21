@@ -26,10 +26,12 @@ npm run e2e
 # run all tests
 npm test
 ```
-vue-hour-slider
- [示例]( https://zangzangah.github.io/vue-hour-slider/index.html)
-
  
+## 示例
+[点我](http://zangzangah.github.io/vue-hour-slider/example/demo.html).
+
+## 截图 
+
 - ![预览1]( vue-hour-slider-1.png)
 - ![预览2]( vue-hour-slider-2.png)
 
